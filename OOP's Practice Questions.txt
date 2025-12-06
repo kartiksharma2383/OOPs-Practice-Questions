@@ -1,0 +1,271 @@
+OOP's Practice Questions 
+
+Easy Level (1-30)
+
+1) Class: Dealing with Complex Numbers
+https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
+
+2) Class: Finding the Percentage
+https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
+3) Class: Finding the Runner-Up Score
+https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+
+4) OOP: Itertools Product / Permutation Practice (Object creation logic)
+https://www.hackerrank.com/challenges/itertools-product/problem
+
+5) Decorators (Basics)
+https://www.hackerrank.com/challenges/list-comprehensions/problem
+
+6) Name Directory (Decorator 2)
+https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
+
+7) Nested Lists → Basic class-style thinking
+https://www.hackerrank.com/challenges/nested-list/problem
+
+8) Exceptions Handling (OOP style)
+https://www.hackerrank.com/challenges/exceptions/problem
+
+9) Collections.Counter (Object-like usage)
+https://www.hackerrank.com/challenges/collections-counter/problem
+
+10) Classes: Deque Operations
+https://www.hackerrank.com/challenges/py-collections-deque/problem
+
+11) Classes & Objects Basic Program
+https://www.geeksforgeeks.org/python-classes-and-objects/
+
+12) Constructor Practice Questions
+https://www.geeksforgeeks.org/constructors-in-python/
+
+13) Encapsulation Example (Private/Public Members)
+https://www.geeksforgeeks.org/encapsulation-in-python/
+
+14) Inheritance Basics – Single & Multiple
+https://www.geeksforgeeks.org/inheritance-in-python/
+
+15) Polymorphism (Function & Operator Overloading)
+https://www.geeksforgeeks.org/polymorphism-in-python/
+
+16) Method Overriding
+https://www.geeksforgeeks.org/method-overriding-in-python/
+
+17) Abstraction using ABC Module
+https://www.geeksforgeeks.org/abstract-classes-in-python/
+
+18) Dunder Methods Practice
+https://www.geeksforgeeks.org/dunder-magic-methods-python/
+
+19) Class Method and Static Method
+https://www.geeksforgeeks.org/class-method-vs-static-method-python/
+
+20) Data Hiding Example
+https://www.geeksforgeeks.org/python-programming-examples/#oop
+
+21) Create Class with Two Methods
+https://www.interviewbit.com/python-programming-exercises/
+
+22) Bank Account OOP Exercise (interviewbit website)
+
+23) Student Class with Getters & Setters (interviewbit website)
+
+24) Rectangle Area Using OOP (interviewbit website)
+
+25) Employee Class Update Salary (interviewbit website)
+
+26) Inheritance Simple Example (interviewbit website)
+
+27) Method Overloading Simulation (interviewbit website)
+
+28) Polymorphic Function Example (interviewbit website)
+
+29) Create Iterator Class (interviewbit website)
+
+30) Custom Exception Class (interviewbit website)
+
+INTERMEDIATE LEVEL (31–70)
+
+31) HTML Parser – OOP Implied
+https://www.hackerrank.com/challenges/html-parser-part-1/problem
+
+32)HTML Parser – Part 2
+https://www.hackerrank.com/challenges/html-parser-part-2/problem
+
+33) XML – Find the Score (Tree Class / Recursion OOP)
+https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
+
+34) XML – Maximum Depth
+https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
+
+35) Incorrect Regex Handling
+https://www.hackerrank.com/challenges/incorrect-regex/problem
+
+36) Re.findall() & Re.finditer()
+https://www.hackerrank.com/challenges/re-findall-re-finditer/problem
+
+37) Regex Grouping & Capturing
+https://www.hackerrank.com/challenges/re-group-groups/problem
+
+38) Regex HTML Tag Detector
+https://www.hackerrank.com/challenges/detect-html-tags/problem
+
+39) Implement Custom Exception
+https://www.hackerrank.com/challenges/py-exceptions/problem
+
+40) OOP Sorting (Athlete Sort)
+https://www.hackerrank.com/challenges/python-sort-sort/problem
+
+41) Implement Multiple Inheritance
+https://www.geeksforgeeks.org/multiple-inheritance-in-python/
+
+42) Multilevel Inheritance Exercise
+https://www.geeksforgeeks.org/multilevel-inheritance-in-python/
+
+43) Hybrid Inheritance Program
+https://www.geeksforgeeks.org/hybrid-inheritance-in-python/
+
+44) Override __str__, __repr__
+
+45) Custom Iterator Class Example
+https://www.geeksforgeeks.org/iterator-in-python/
+
+46) Generator Class with __iter__ & __next__ (GFG)
+
+47) Overloading + Overriding Hybrid Questions (GFG)
+
+48) OOP Case Study – Banking System (GFG) 
+
+49) OOP Case Study – Library Management (GFG) 
+
+50) OOP Case Study – School Management System (GFG) 
+
+51) Design Parking System
+https://leetcode.com/problems/design-parking-system/
+
+52) Design HashSet
+https://leetcode.com/problems/design-hashset/
+
+53) Design HashMap
+https://leetcode.com/problems/design-hashmap/
+
+54) Design Browser History (Inheritance-like behavior)
+https://leetcode.com/problems/design-browser-history/
+
+55) Design Underground System
+https://leetcode.com/problems/design-underground-system/
+
+56) Design Twitter
+https://leetcode.com/problems/design-twitter/
+
+57) Implement Trie (Class + multiple methods)
+https://leetcode.com/problems/implement-trie-prefix-tree/
+
+58) LRU Cache OOP
+https://leetcode.com/problems/lru-cache/
+
+59) LFU Cache (Advanced OOP)
+https://leetcode.com/problems/lfu-cache/
+
+60) Min Stack (OOP stack class design)
+https://leetcode.com/problems/min-stack/
+
+61) Build Class: Pagination System (6 kyu)
+https://www.codewars.com/kata/515bb423de843ea99400000a
+
+62) Build Vector Class (5 kyu)
+https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4
+
+63) Build Warrior/Fighter Class
+https://www.codewars.com/kata/5941c545f5c394fef900000c
+
+64) RGB → Hex Class
+https://www.codewars.com/kata/513e08acc600c94f01000001
+
+65) Create Mathematical Set Class
+https://www.codewars.com/kata/53e895e28e9e74065d00003c
+
+66) Build Calculator Class (Code Wars)
+
+67) Build Queue Class (Code Wars)
+
+68) Make Your Own Iterator (Code Wars)
+
+69) OOP Encapsulation Challenge (Code Wars) 
+
+70) Inheritance-based Animal Classes (Code Wars)
+
+HARD LEVEL (71–100)
+
+71) Serialize and Deserialize Binary Tree
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+72) Design File System
+https://leetcode.com/problems/design-file-system/
+
+73) Design In-Memory File System (Advanced OOP)
+https://leetcode.com/problems/design-in-memory-file-system/
+
+74) Design Search Autocomplete System
+https://leetcode.com/problems/design-search-autocomplete-system/
+
+75) Design Movie Rent System
+https://leetcode.com/problems/design-movie-rental-system/
+
+76) Design Tic-Tac-Toe
+https://leetcode.com/problems/design-tic-tac-toe/
+
+77) Design Snake Game
+https://leetcode.com/problems/design-snake-game/
+
+78) Design Skiplist
+https://leetcode.com/problems/design-skiplist/
+
+79) Peeking Iterator
+https://leetcode.com/problems/peeking-iterator/
+
+80) Flatten Nested Iterator
+https://leetcode.com/problems/flatten-nested-list-iterator/
+
+81) OOP Design Patterns – Singleton
+https://www.geeksforgeeks.org/singleton-pattern-in-python/
+
+82) Factory Pattern Implementation
+https://www.geeksforgeeks.org/factory-method-python/
+
+83) Strategy Pattern (Polymorphism usage) (GFG)
+
+84) Observer Pattern (GFG)
+
+85) Adapter Pattern (GFG)
+
+86) Decorator Pattern (GFG)
+
+87) Builder Pattern (GFG)
+
+88) OOP Case Study – Hospital Management (GFG)
+
+89) OOP Case Study – Airline Reservation System (GFG)
+
+90) OOP Case Study – E-Commerce System (GFG)
+
+91) Battleship Field Validator
+https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7
+
+92) Connect Four OOP
+https://www.codewars.com/kata/56882731514ec3ec3d000009
+
+93) Sudoku Solver (Class-based) (Code Wars)
+
+94) Build Chess Engine Base Classes (Code Wars)
+
+95) RPG Game Character Class System (Code Wars)
+
+96) Elevator OOP Simulation (Code Wars)
+
+97) Traffic Light Controller OOP (Code Wars)
+
+98) File Compression Class System (Code Wars)
+
+99) Build Expression Parser using Classes (Code Wars)
+
+100) Fully custom iterator with state machine (Code Wars)
